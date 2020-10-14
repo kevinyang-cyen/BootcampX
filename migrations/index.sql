@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS students, cohorts, assignments, assignment_submissions, teachers, assistance_requests;
